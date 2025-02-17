@@ -7,7 +7,7 @@ The release can be found within the releases as a draft (only visible for repo o
 # How to use
 1. Clone or fork this repo
 2. Edit /.github/workflows/aseprite_build_deploy.yml
-3. Find and edit the **os** line and remove the os you don't need.
+3. Find and edit the **os** line and remove the os you don't need!
 
         strategy:
             matrix:
